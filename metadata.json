@@ -1,0 +1,6 @@
+{
+  "name": "SITEGEN",
+  "description": "One Prompt. Any Website. AI Website Builder SaaS to generate, visually edit, customize, manage, and publish websites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
